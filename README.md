@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @intelligence2002
+- 👋 Hi, I’m @Aditya Singh
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Mern stack
 - 💞️ I’m looking to collaborate on opensource projects
