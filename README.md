@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aditya Singh
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning Full stack
-- 💞️ I’m looking to collaborate on opensource projects
+- 💞️ I’m looking to collaborate on opensource projects,
 - 📫 My linkedin : https://www.linkedin.com/in/adi008/
 
 <!---
