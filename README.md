@@ -4,10 +4,10 @@
 
 I'm a web development enthusiast, and I love working on Full-stack projects. My goal is to create impactful and user-friendly web applications that solve real-world problems.
 
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Full-stack development.
-- 💞️ I’m looking to collaborate on open-source projects.
-- 
+- 👀 I’m interested in web development and always excited to explore new technologies and frameworks.
+- 🌱 I’m currently on a Full-stack development journey, honing my skills in both front-end and back-end technologies.
+- 💞️ I’m actively looking to collaborate on open-source projects and contribute to the developer community.
+
 ## Skills
 
 Here are some of the technologies and skills I work with:
