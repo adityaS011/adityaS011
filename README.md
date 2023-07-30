@@ -10,14 +10,18 @@ I'm a web development enthusiast, and I love working on Full-stack projects. My 
 - 
 ## Skills
 
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-- ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+Here are some of the technologies and skills I work with:
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" height="40" />
+</p>
 ## Hacktoberfest 2022
 
 - [![@intelligence2002's Holopin board](https://holopin.me/intelligence2002)](https://holopin.io/@intelligence2002)
