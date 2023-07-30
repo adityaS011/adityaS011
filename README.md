@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack
 - 💞️ I’m looking to collaborate on opensource projects,
 - 📫 My linkedin : https://www.linkedin.com/in/adi008/
+- [![@intelligence2002's linkedin](https://www.linkedin.com/in/adi008/)]
 
 <!---
 intelligence2002/intelligence2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
