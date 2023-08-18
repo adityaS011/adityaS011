@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Aditya Singh (@intelligence2002)
+# Hi there! 👋 I’m Aditya Singh (@adityaS011)
 
 ## About Me
 
