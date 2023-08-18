@@ -37,7 +37,6 @@ Let's connect and collaborate! You can reach me on:
 
 - LinkedIn: [Aditya Singh](https://www.linkedin.com/in/adi008/)
 - GitHub: [@adityaS011](https://github.com/adityaS011)
-- 
-[![](https://visitcount.itsvg.in/api?id=adityaS011&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
 Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
