@@ -36,6 +36,6 @@ Here are some of the technologies and skills I work with:
 Let's connect and collaborate! You can reach me on:
 
 - LinkedIn: [Aditya Singh](https://www.linkedin.com/in/adi008/)
-- GitHub: [@intelligence2002](https://github.com/intelligence2002)
+- GitHub: [@adityaS011](https://github.com/adityaS011)
 
 Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
