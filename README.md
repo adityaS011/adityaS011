@@ -37,6 +37,7 @@ Let's connect and collaborate! You can reach me on:
 
 - LinkedIn: [Aditya Singh](https://www.linkedin.com/in/adi008/)
 - GitHub: [@adityaS011](https://github.com/adityaS011)
+- Portfolio: [@adityaS011](https://adityasingh-portfolio.netlify.app)
 
 
 Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
