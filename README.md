@@ -4,13 +4,13 @@
 
 🚀 Passionate and committed full-stack developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
--🛠️ **Languages & Frameworks:** JavaScript (Node.js, React), Python, HTML, CSS, SQL
--💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
--🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
--🔧 **Tools & Technologies:** Git, VSCode, Express.js, MERN Stack, Linux
--🏆 **Competitive Programming:** Codeforces, LeetCode, HackerRank, CodeChef
--🌐 **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Redux
--📚 **Learning Journey:** Constantly exploring new technologies and frameworks to expand my skill set and improve my development capabilities.
+- 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React), Python, HTML, CSS, SQL
+- 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
+- 🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
+- 🔧 **Tools & Technologies:** Git, VSCode, Express.js, MERN Stack, Linux
+- 🏆 **Competitive Programming:** Codeforces, LeetCode, HackerRank, CodeChef
+- 🌐 **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Redux
+- 📚 **Learning Journey:** Constantly exploring new technologies and frameworks to expand my skill set and improve my development capabilities.
 
 ## Skills
 
