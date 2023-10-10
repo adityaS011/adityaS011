@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passinate and commited individual who for now is a competetive programmer web development enthusiast, and I love challenges, working on problems and developing Full-stack projects. My goal is to get great at creating user-friendly web applications that solve real-world problems.
+I'm a passinate and commited individual who for now is a competetive programmer and web development enthusiast, and I love challenges, working on problems and developing Full-stack projects. My goal is to get great at creating user-friendly web applications that solve real-world problems.
 
 - 👀 I’m interested in web development and always excited to explore new technologies and frameworks.
 - 🌱 I’m currently on a Full-stack development journey, honing my skills in both front-end and back-end technologies.
