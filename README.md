@@ -2,11 +2,15 @@
 
 ## About Me
 
-I'm a passinate and commited individual who for now is a competetive programmer and web development enthusiast, and I love challenges, working on problems and developing Full-stack projects. My goal is to get great at creating user-friendly web applications that solve real-world problems.
+🚀 Passionate and committed full-stack developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
-- 👀 I’m interested in web development and always excited to explore new technologies and frameworks.
-- 🌱 I’m currently on a Full-stack development journey, honing my skills in both front-end and back-end technologies.
-- 💞️ I’m actively looking to collaborate on open-source projects and contribute to the developer community.
+🛠️ **Languages & Frameworks:** JavaScript (Node.js, React), Python, HTML, CSS, SQL
+💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
+🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
+🔧 **Tools & Technologies:** Git, VSCode, Express.js, MERN Stack, Linux
+🏆 **Competitive Programming:** Codeforces, LeetCode, HackerRank, CodeChef
+🌐 **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Redux
+📚 **Learning Journey:** Constantly exploring new technologies and frameworks to expand my skill set and improve my development capabilities.
 
 ## Skills
 
