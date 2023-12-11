@@ -1,7 +1,7 @@
-<h1 align="center">
-  <strong>Hi there! 👋 I’m Aditya Singh</strong>
+<h1 align="center" color="yellow">
+  <strong>Hi there! 👋 </strong>
 </h1>
-## About Me
+<h3>About Me</h3> 
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
