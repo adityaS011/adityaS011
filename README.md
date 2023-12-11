@@ -1,5 +1,17 @@
 # Hi there! 👋 I’m Aditya Singh
-
+<div style="margin: 0; padding: 0; font-family: 'Arial', sans-serif;">
+  <div style="background-color: #2c3e50; padding: 1.5rem; text-align: center;">
+    <div style="max-width: 24rem; border-radius: 0.75rem; overflow: hidden; display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); position: relative;">
+      <img style="width: 100%; height: 35rem; border-radius: 0.75rem;" src="https://wallpapercave.com/dwp1x/yIznRbp.jpg" alt="Image Description">
+      <div style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; padding: 1.5rem; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+        <!-- Title (Block-level element) -->
+        <h2 style="font-weight: bold; font-style: italic; color: #555555; font-size: 1.25rem; padding-bottom: 1.5rem; margin-bottom: 1.5rem; margin-right: auto; margin-left: auto;">Aditya Singh</h2>
+        <!-- Text (Block-level element) -->
+        <p style="margin-top: 1.5rem; padding-top: 1.5rem; color: #888888;">A Web Developer</p>
+      </div>
+    </div>
+  </div>
+</div>
 ## About Me
 
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
