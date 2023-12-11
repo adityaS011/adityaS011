@@ -1,19 +1,5 @@
 # Hi there! 👋 I’m Aditya Singh
-<div class="bg-slate-900">
-  <div class="max-w-sm mx-auto  rounded-xl overflow-hidden place-content-center min-h-screen shadow-md text-center flex flex-col relative">
-    <!-- Image (Flex item) -->
-    <img class="h-35 w-full rounded-3xl" src="https://wallpapercave.com/dwp1x/yIznRbp.jpg" alt="Image Description">
-    <!-- Text Container (Flex item) -->
-    <div class="absolute inset-0 p-6 flex flex-col items-center justify-center">
-      <!-- Title (Block-level element) -->
-      <h2 class="font-bold italic text-gray-600 text-xl pb-6 mb-6 mx-auto">Aditya Singh</h2>
-      <!-- Text (Block-level element) -->
-      <p class="mt-6 pt-6 text-gray-400 mx-auto">A Web Developer</p>
-    </div>
-  </div>
-</div>
 ## About Me
-
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
