@@ -1,6 +1,6 @@
-<body style="margin: 0; padding: 0; font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh;">
+<div style="margin: 0; padding: 0; font-family: 'Arial', sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh;">
   <h1 style="text-align: center;">Hi there! 👋 I’m Aditya Singh</h1>
-</body>
+</div>
 ## About Me
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
