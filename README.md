@@ -1,4 +1,4 @@
-# Hi there! 👋 I’m Aditya Singh
+<center> # Hi there! 👋 I’m Aditya Singh </center>
 ## About Me
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
