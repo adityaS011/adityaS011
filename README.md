@@ -1,16 +1,17 @@
 # Hi there! 👋 I’m Aditya Singh
-<body style="margin: 0; padding: 0; font-family: 'Arial', sans-serif;">
-  <div style="position: relative; background-color: #2c3e50; overflow: hidden;">
+<div class="bg-slate-900">
+  <div class="max-w-sm mx-auto  rounded-xl overflow-hidden place-content-center min-h-screen shadow-md text-center flex flex-col relative">
     <!-- Image (Flex item) -->
-    <img style="width: 50%; height: auto;" src="https://wallpapercave.com/dwp1x/yIznRbp.jpg" alt="Image Description">
+    <img class="h-35 w-full rounded-3xl" src="https://wallpapercave.com/dwp1x/yIznRbp.jpg" alt="Image Description">
     <!-- Text Container (Flex item) -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #fff;">
+    <div class="absolute inset-0 p-6 flex flex-col items-center justify-center">
       <!-- Title (Block-level element) -->
-      <h2 style="font-weight: bold; font-style: italic; font-size: 2rem; margin-bottom: 1rem;">Aditya Singh</h2>
+      <h2 class="font-bold italic text-gray-600 text-xl pb-6 mb-6 mx-auto">Aditya Singh</h2>
       <!-- Text (Block-level element) -->
-      <p style="color: #ccc; font-size: 1.25rem;">A Web Developer</p>
+      <p class="mt-6 pt-6 text-gray-400 mx-auto">A Web Developer</p>
     </div>
   </div>
+</div>
 ## About Me
 
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
