@@ -1,6 +1,6 @@
-<h1 align="center" color="yellow">
-  <strong>Hi there! 👋 </strong>
-</h1>
+<div align="center" >
+  <h1>Hi there! 👋 </h1>
+
 <h3>About Me</h3> 
 🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.
 
@@ -43,6 +43,6 @@ Let's connect and collaborate! You can reach me on:
 - GitHub: [@adityaS011](https://github.com/adityaS011)
 - Portfolio: [@adityaS011](https://adityasingh-portfolio.netlify.app)
 - Leetcode: [aditya_011](https://leetcode.com/aditya_011/)
-
+</div>
 
 Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
