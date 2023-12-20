@@ -1,9 +1,8 @@
+<h1>Hi there! 👋 </h1>
 <div align="center" >
-  <h1>Hi there! 👋 </h1>
-
 <h3>About Me</h3> 
  </div>
-<h4>🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.</h4>
+<h3>🚀 I am a JavaScript application developer, competitive programmer, and web development enthusiast on a mission to create user-friendly web applications that solve real-world problems. Embracing challenges and continuously exploring new technologies and frameworks. Actively seeking opportunities to collaborate on open-source projects and contribute to the developer community.</h3>
 
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
 - 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
