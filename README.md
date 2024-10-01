@@ -2,8 +2,9 @@
 <div align="center" >
 <h3>About Me</h3> 
  </div>
- <h3>
-<center>🚀 I’m a passionate JavaScript developer who thrives on building innovative solutions. Armed with my keyboard, I battle complex bugs and challenges daily — and so far, I haven’t lost a fight (though my journey has just begun!). <br/>  <br/> My most favoraite tech stack is (Next.js, Typescript, Tailwind, React, Node)</center> </h3>
+
+ <h3 align='center'>
+I’m a passionate JavaScript developer who thrives on building innovative solutions. Armed with my keyboard, I battle complex bugs and challenges daily — and so far, I haven’t lost a fight (though my journey has just begun!). <br/>  <br/> My most favoraite tech stack is (Next.js, Typescript, Tailwind, React, Node) </h3>
 
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
 - 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
