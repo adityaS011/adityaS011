@@ -34,7 +34,6 @@ Here are some of the technologies and skills I work with:
 ## Hacktoberfest 2022
 
 - [![@intelligence2002's Holopin board](https://holopin.me/intelligence2002)](https://holopin.io/@intelligence2002)
-- [![@adi011's Holopin board](https://holopin.io/api/user/board?user=adi011)](https://holopin.io/@adi011)
 
 ## Connect with Me
 
