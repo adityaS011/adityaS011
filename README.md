@@ -10,9 +10,6 @@ I’m a passionate JavaScript developer who loves on building innovative flows. 
 - 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
 - 🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
 - 🔧 **Tools & Technologies:** Git, VSCode, Express.js, MERN Stack, Linux
-- 🏆 **Competitive Programming:** Codeforces, LeetCode, HackerRank, CodeChef
-- 🌐 **Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Redux
-- 📚 **Learning Journey:** Constantly exploring new technologies and frameworks to expand my skill set and improve my development capabilities.
 
 ## Skills
 
