@@ -3,7 +3,7 @@
   <h3>About Me</h3> 
 </div>
 
-<h3 align='center'>
+<h3 >
 I’m a passionate JavaScript developer with a knack for building efficient and innovative solutions. Every day, I embrace new challenges and tackle complex bugs, and so far, I'm winning the battle! My journey as a developer has just begun, but I'm always eager to learn and grow. <br/><br/> 
 I specialize in the **Next.js, Typescript, Tailwind, React, Node.js** tech stack, and it's my absolute favorite to work with.
 </h3>
