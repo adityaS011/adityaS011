@@ -8,7 +8,7 @@ I’m a passionate JavaScript developer with a knack for building efficient and 
 I specialize in the **Next.js, Typescript, Tailwind, React, Node.js** tech stack, and it's my absolute favorite to work with.
 </h3>
 
-- 💼 **Internship Experience:** During my time as a Software Engineering Intern at an early stage (pre-seed) startup **MYSA Innovations Pvt. Ltd.**, I had the opportunity to collaborate with senior developers and product teams to build out core features in a FinTech platform. I independently developed a comprehensive **vendor management** system that seamlessly integrates vendors with invoices and payments, boosting overall onboarding and operational efficiency. Technologies I used include **Next.js, TypeScript, and TailwindCSS**.
+- 💼 **Internship Experience:** Worked as a Frontend Engineer Intern at an early stage (pre-seed) startup **MYSA Innovations Pvt. Ltd.**
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
 - 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
 - 🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
