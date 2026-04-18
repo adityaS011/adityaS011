@@ -8,6 +8,7 @@ I’m a passionate JavaScript developer with a knack for building efficient and 
 I specialize in the **Next.js, Typescript, Tailwind, React, Node.js** tech stack, and it's my absolute favorite to work with.
 </h3>
 
+- 💼 **Experience:** Working as a Frontend Engineer at Atomicwork a series-A, US based SaaS startup**
 - 💼 **Internship Experience:** Worked as a Frontend Engineer Intern at an early stage (pre-seed) startup **MYSA Innovations Pvt. Ltd.**
 - 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
 - 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
