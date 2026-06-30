@@ -1,135 +1,159 @@
-<h1 >Hi 👋 I'm Aditya Singh</h1>
+<h1 align="center">Hi 👋 I'm Aditya Singh</h1>
 
-<h3>
+<h3 align="center">
 Frontend Engineer building modern web applications with React, Next.js & TypeScript.
 </h3>
+
+<p align="center">
+Previously <b>Atomicwork (Series A SaaS)</b> • <b>MYSA (Pre-seed FinTech)</b>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I'm a Frontend Engineer with **2+ years of experience** building products at fast-moving startups.
+I'm a Frontend Engineer with **2+ years of experience** building products at startups.
 
-I've had the opportunity to work at both a **Series A SaaS startup (Atomicwork)** and a **pre-seed fintech startup (MYSA)**, where I built production features from scratch, collaborated closely with product and design teams, and learned what it takes to ship software that real customers use every day.
+Over the last two years I've worked on production SaaS applications, building everything from reusable component systems and dashboards to complex workflows and highly interactive user interfaces.
 
-These days, I'm interested in building products where the frontend itself becomes an engineering challenge—AI workflow builders, schedulers, dashboards, visualization tools, and highly reusable component systems.
+Outside of work, I enjoy building projects that push my engineering skills—AI workflow builders, schedulers, analytics platforms, automation tools, and developer-focused applications.
 
-### I primarily work with
+### Tech I enjoy working with
 
 - ⚛️ React
 - ▲ Next.js
 - 📘 TypeScript
 - 🎨 Tailwind CSS
 - 🟢 Node.js
-- 🗄️ PostgreSQL & MongoDB
+- 🗄️ PostgreSQL
+- 🍃 MongoDB
 
 ---
 
 # 🚀 Featured Projects
 
-I like building projects that solve real engineering problems instead of simple CRUD applications.
-
 ## 🤖 LLM Flow
 
-> AI Workflow Builder inspired by Langflow & n8n
+AI Workflow Builder inspired by Langflow & n8n.
 
-### Highlights
+**Highlights**
 
-- Visual Drag & Drop Builder
-- Custom Workflow Nodes
-- Dynamic Edge Connections
-- Workflow Execution Engine
-- Complex State Management
-- Modular Architecture
+- Drag & Drop Workflow Builder
+- Custom Nodes
+- Workflow Execution
+- Dynamic Graph Management
 
-**Tech Stack**
+**Tech**
 
 `Next.js` • `TypeScript` • `React Flow`
+
+🔗 **Repository:** https://github.com/adityaS011/llm-flow
+
+🌐 **Live Demo:** https://flowai-workflow-builder.vercel.app/
 
 ---
 
 ## 📅 Smart Scheduler
 
-A scheduling application capable of rendering thousands of events while handling overlapping meetings efficiently.
+Calendar application with overlap detection and intelligent event layout.
 
-### Highlights
+**Highlights**
 
-- Event Collision Detection
-- Calendar Layout Engine
+- Collision Detection
 - Interval Partitioning
-- Dynamic Positioning Algorithm
+- Dynamic Layout Engine
 - Optimized Rendering
 
-**Tech Stack**
+**Tech**
 
 `React` • `TypeScript`
+
+🔗 **Repository:** https://github.com/adityaS011/taskManagement
+
+🌐 **Live Demo:** https://intelligent-task-manager.vercel.app/
 
 ---
 
 ## 📊 Product Analytics Dashboard
 
-A production-style dashboard for visualizing and exploring analytics.
+Production-style analytics dashboard with filtering and visualization.
 
-### Highlights
+**Highlights**
 
-- Interactive Charts
-- URL Synced Filters
+- Real time updates
+- Websockets
 - Cookie Persistence
-- Advanced Filtering
-- Reusable Dashboard Components
+- Reusable Components
 
-**Tech Stack**
+**Tech**
 
-`Next.js` • `TypeScript`
+`Next.js` • `Chart.js`
+
+🔗 **Repository:** https://github.com/adityaS011/stock-dashboard
+
+🌐 **Live Demo:** https://stock-dashboard-seven-xi.vercel.app/home
 
 ---
 
-## 🤖 Project Jarvis
+## 🤖 Project Jarvis (Working)
 
-An autonomous AI job hunting agent that continuously discovers, filters and ranks engineering opportunities.
+Autonomous AI-powered personal assistant linked with a dashboard.
 
-### Highlights
+**Highlights**
 
-- AI-powered Matching
+- Call/ Email/ Notification reminders
 - Workflow Automation
-- Resume Scoring
-- Job Aggregation
-- Notification System
+- Task management
+- Paired with a voice input app so we can easily talk and track progress
 
-**Tech Stack**
+**Tech**
 
-`Next.js` • `TypeScript` • `OpenAI`
+`Next.js` • `TypeScript`
+
+🔗 **Repository:** https://github.com/adityaS011/jarvis
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-  <!-- icons -->
+<!-- icons -->
 </p>
-
----
-
-# 🌱 Currently Exploring
-
-- AI Agents
-- Workflow Automation
-- Frontend Architecture
-- Data Visualization
-- Performance Optimization
-- System Design
 
 ---
 
 # 📈 GitHub Stats
 
-(stats)
+<!-- stats -->
 
 ---
 
 # 🤝 Let's Connect
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 🧩 LeetCode
-- 📧 Email
+<p align="center">
+
+<a href="https://www.linkedin.com/in/adi008/" target="_blank">
+LinkedIn
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://adityasingh-portfolio.netlify.app/" target="_blank">
+Portfolio
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://github.com/adityaS011" target="_blank">
+GitHub
+</a>
+&nbsp;•&nbsp;
+
+<a href="https://leetcode.com/aditya_011/" target="_blank">
+LeetCode
+</a>
+&nbsp;•&nbsp;
+
+<a href="mailto:adityasinghtech011@gmail.com">
+Email
+</a>
+
+</p>
