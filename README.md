@@ -1,49 +1,188 @@
-<h1>Hi there! 👋</h1>
-<div align="center">
-  <h3>About Me</h3> 
-</div>
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 
-<h3 >
-I’m a passionate JavaScript developer with a knack for building efficient and innovative solutions. Every day, I embrace new challenges and tackle complex bugs, and so far, I'm winning the battle! My journey as a developer has just begun, but I'm always eager to learn and grow. <br/><br/> 
-I specialize in the **Next.js, Typescript, Tailwind, React, Node.js** tech stack, and it's my absolute favorite to work with.
+<h3 align="center">
+Frontend Engineer • React • Next.js • TypeScript
 </h3>
 
-- 💼 **Experience:** Working as a Frontend Engineer at Atomicwork a series-A, US based SaaS startup**
-- 💼 **Internship Experience:** Worked as a Frontend Engineer Intern at an early stage (pre-seed) startup **MYSA**
-- 🛠️ **Languages & Frameworks:** JavaScript (Node.js, React, Express), Python, HTML, CSS, SQL
-- 💻 **Front-End Development:** Responsive web design, UI/UX design, Single Page Applications (SPAs)
-- 🚀 **Back-End Development:** RESTful APIs, server-side scripting, database design (MySQL, MongoDB)
-- 🔧 **Tools & Technologies:** Git, VSCode, Express.js, MERN Stack, Linux
-
-## Skills
-
-Here are some of the technologies and skills I work with:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" height="50" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" height="50" />
-  <img src="https://img.icons8.com/ios/50/000000/solidity.png" alt="Solidity" title="Solidity" height="50" />
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" height="50" />
+Building products that solve difficult frontend engineering problems.
+<br/>
+From AI workflow builders and analytics dashboards to schedulers and reusable component systems.
 </p>
 
-## Hacktoberfest 2022
+---
 
-- [![@intelligence2002's Holopin board](https://holopin.me/intelligence2002)](https://holopin.io/@intelligence2002)
+## 👨‍💻 About Me
 
-## Connect with Me
+I'm a Frontend Engineer with **2+ years of experience** building SaaS products at startups.
 
-Let's connect and collaborate! You can reach me on:
+I've worked on production applications where the challenge wasn't just building UI—it was designing scalable frontend architecture, reusable component systems, complex state management, workflow builders, dashboards, and performant user experiences.
 
-- LinkedIn: [Aditya Singh](https://www.linkedin.com/in/adi008/)
-- GitHub: [@adityaS011](https://github.com/adityaS011)
-- Portfolio: [@adityaS011](https://adityasingh-portfolio.netlify.app)
-- Leetcode: [aditya_011](https://leetcode.com/aditya_011/)
+I enjoy working on products that require engineering beyond CRUD applications.
 
-Feel free to explore my projects, leave feedback, or reach out for any questions or suggestions. Looking forward to connecting with you!
+---
+
+## 💼 Experience
+
+### Frontend Engineer — Atomicwork *(Series A SaaS Startup)*
+
+- Built production features used by enterprise customers
+- Developed scalable React & Next.js applications
+- Built reusable UI architecture and component systems
+- Worked closely with product, design and backend teams
+- Focused on performance, maintainability and developer experience
+
+### Frontend Engineer Intern — MYSA *(Pre-seed FinTech Startup)*
+
+- Built features from scratch using React & Next.js
+- Developed vendor onboarding flows
+- Built payment dashboards
+- Implemented profile management systems
+- Collaborated in a fast-moving startup environment
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 LLM Flow
+
+AI workflow builder inspired by tools like Langflow and n8n.
+
+### Engineering Highlights
+
+- Drag & Drop Workflow Builder
+- Custom Node System
+- Dynamic Edge Management
+- Workflow Execution Engine
+- Complex State Synchronization
+- Reusable Architecture
+
+**Tech**
+
+`Next.js` • `TypeScript` • `React Flow` • `Tailwind`
+
+---
+
+## 📊 Product Analytics Dashboard
+
+A production-style analytics dashboard focused on visualization and data exploration.
+
+### Engineering Highlights
+
+- Interactive Charts
+- URL-synced Filters
+- Cookie Persistence
+- Date Range Filtering
+- Reusable Dashboard Components
+- Advanced State Management
+
+**Tech**
+
+`Next.js` • `TypeScript` • `Chart.js`
+
+---
+
+## 📅 Smart Scheduler
+
+A calendar application capable of handling overlapping events.
+
+### Engineering Highlights
+
+- Event Collision Detection
+- Interval Partitioning Algorithm
+- Dynamic Event Positioning
+- Optimized Rendering
+- Calendar Layout Engine
+
+**Tech**
+
+`React` • `TypeScript`
+
+---
+
+## 🤖 Project Jarvis
+
+An AI-powered autonomous job hunting agent.
+
+### Engineering Highlights
+
+- Automated Job Discovery
+- AI-based Opportunity Ranking
+- Workflow Automation
+- Resume Matching
+- Notification System
+- Large-scale Job Aggregation
+
+**Tech**
+
+`Next.js` • `TypeScript` • `OpenAI`
+
+---
+
+## 🚀 Currently Building
+
+- AI Workflow Platform
+- Autonomous Job Hunter Agent
+- Full Stack Scheduler
+- Advanced React Component Library
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/css3.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/express.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/docker.png" height="45"/>
+  <img src="https://img.icons8.com/ios-filled/50/git.png" height="45"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaS011&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaS011&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=adityaS011&theme=github-dark"/>
+</p>
+
+---
+
+# 🌱 Current Interests
+
+- Frontend Architecture
+- AI Products
+- Workflow Builders
+- Complex React Systems
+- Data Visualization
+- Performance Optimization
+- Developer Experience
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn — https://linkedin.com/in/adi008
+- 🌐 Portfolio — https://adityasingh-portfolio.netlify.app
+- 💻 GitHub — https://github.com/adityaS011
+- 🧩 LeetCode — https://leetcode.com/aditya_011
+
+---
+
+> *"I enjoy building products where the frontend itself becomes the engineering challenge."*
