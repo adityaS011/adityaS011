@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 I'm Aditya Singh</h1>
+<h1 >Hi 👋 I'm Aditya Singh</h1>
 
-<h3 align="center">
+<h3>
 Frontend Engineer building modern web applications with React, Next.js & TypeScript.
 </h3>
 
