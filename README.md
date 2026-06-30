@@ -1,188 +1,135 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+<h1 align="center">Hi 👋 I'm Aditya Singh</h1>
 
 <h3 align="center">
-Frontend Engineer • React • Next.js • TypeScript
+Frontend Engineer building modern web applications with React, Next.js & TypeScript.
 </h3>
 
-<p align="center">
-Building products that solve difficult frontend engineering problems.
-<br/>
-From AI workflow builders and analytics dashboards to schedulers and reusable component systems.
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Frontend Engineer with **2+ years of experience** building SaaS products at startups.
+I'm a Frontend Engineer with **2+ years of experience** building products at fast-moving startups.
 
-I've worked on production applications where the challenge wasn't just building UI—it was designing scalable frontend architecture, reusable component systems, complex state management, workflow builders, dashboards, and performant user experiences.
+I've had the opportunity to work at both a **Series A SaaS startup (Atomicwork)** and a **pre-seed fintech startup (MYSA)**, where I built production features from scratch, collaborated closely with product and design teams, and learned what it takes to ship software that real customers use every day.
 
-I enjoy working on products that require engineering beyond CRUD applications.
+These days, I'm interested in building products where the frontend itself becomes an engineering challenge—AI workflow builders, schedulers, dashboards, visualization tools, and highly reusable component systems.
 
----
+### I primarily work with
 
-## 💼 Experience
-
-### Frontend Engineer — Atomicwork *(Series A SaaS Startup)*
-
-- Built production features used by enterprise customers
-- Developed scalable React & Next.js applications
-- Built reusable UI architecture and component systems
-- Worked closely with product, design and backend teams
-- Focused on performance, maintainability and developer experience
-
-### Frontend Engineer Intern — MYSA *(Pre-seed FinTech Startup)*
-
-- Built features from scratch using React & Next.js
-- Developed vendor onboarding flows
-- Built payment dashboards
-- Implemented profile management systems
-- Collaborated in a fast-moving startup environment
+- ⚛️ React
+- ▲ Next.js
+- 📘 TypeScript
+- 🎨 Tailwind CSS
+- 🟢 Node.js
+- 🗄️ PostgreSQL & MongoDB
 
 ---
 
 # 🚀 Featured Projects
 
+I like building projects that solve real engineering problems instead of simple CRUD applications.
+
 ## 🤖 LLM Flow
 
-AI workflow builder inspired by tools like Langflow and n8n.
+> AI Workflow Builder inspired by Langflow & n8n
 
-### Engineering Highlights
+### Highlights
 
-- Drag & Drop Workflow Builder
-- Custom Node System
-- Dynamic Edge Management
+- Visual Drag & Drop Builder
+- Custom Workflow Nodes
+- Dynamic Edge Connections
 - Workflow Execution Engine
-- Complex State Synchronization
-- Reusable Architecture
+- Complex State Management
+- Modular Architecture
 
-**Tech**
+**Tech Stack**
 
-`Next.js` • `TypeScript` • `React Flow` • `Tailwind`
-
----
-
-## 📊 Product Analytics Dashboard
-
-A production-style analytics dashboard focused on visualization and data exploration.
-
-### Engineering Highlights
-
-- Interactive Charts
-- URL-synced Filters
-- Cookie Persistence
-- Date Range Filtering
-- Reusable Dashboard Components
-- Advanced State Management
-
-**Tech**
-
-`Next.js` • `TypeScript` • `Chart.js`
+`Next.js` • `TypeScript` • `React Flow`
 
 ---
 
 ## 📅 Smart Scheduler
 
-A calendar application capable of handling overlapping events.
+A scheduling application capable of rendering thousands of events while handling overlapping meetings efficiently.
 
-### Engineering Highlights
+### Highlights
 
 - Event Collision Detection
-- Interval Partitioning Algorithm
-- Dynamic Event Positioning
-- Optimized Rendering
 - Calendar Layout Engine
+- Interval Partitioning
+- Dynamic Positioning Algorithm
+- Optimized Rendering
 
-**Tech**
+**Tech Stack**
 
 `React` • `TypeScript`
 
 ---
 
+## 📊 Product Analytics Dashboard
+
+A production-style dashboard for visualizing and exploring analytics.
+
+### Highlights
+
+- Interactive Charts
+- URL Synced Filters
+- Cookie Persistence
+- Advanced Filtering
+- Reusable Dashboard Components
+
+**Tech Stack**
+
+`Next.js` • `TypeScript`
+
+---
+
 ## 🤖 Project Jarvis
 
-An AI-powered autonomous job hunting agent.
+An autonomous AI job hunting agent that continuously discovers, filters and ranks engineering opportunities.
 
-### Engineering Highlights
+### Highlights
 
-- Automated Job Discovery
-- AI-based Opportunity Ranking
+- AI-powered Matching
 - Workflow Automation
-- Resume Matching
+- Resume Scoring
+- Job Aggregation
 - Notification System
-- Large-scale Job Aggregation
 
-**Tech**
+**Tech Stack**
 
 `Next.js` • `TypeScript` • `OpenAI`
 
 ---
 
-## 🚀 Currently Building
+# 💻 Tech Stack
 
-- AI Workflow Platform
-- Autonomous Job Hunter Agent
-- Full Stack Scheduler
-- Advanced React Component Library
+<p align="center">
+  <!-- icons -->
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/css3.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/typescript.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/nextjs.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/tailwindcss.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/express.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/postgreesql.png" height="45"/>
-  <img src="https://img.icons8.com/color/48/docker.png" height="45"/>
-  <img src="https://img.icons8.com/ios-filled/50/git.png" height="45"/>
-</p>
+- AI Agents
+- Workflow Automation
+- Frontend Architecture
+- Data Visualization
+- Performance Optimization
+- System Design
 
 ---
 
 # 📈 GitHub Stats
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaS011&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaS011&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=adityaS011&theme=github-dark"/>
-</p>
+(stats)
 
 ---
 
-# 🌱 Current Interests
+# 🤝 Let's Connect
 
-- Frontend Architecture
-- AI Products
-- Workflow Builders
-- Complex React Systems
-- Data Visualization
-- Performance Optimization
-- Developer Experience
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn — https://linkedin.com/in/adi008
-- 🌐 Portfolio — https://adityasingh-portfolio.netlify.app
-- 💻 GitHub — https://github.com/adityaS011
-- 🧩 LeetCode — https://leetcode.com/aditya_011
-
----
-
-> *"I enjoy building products where the frontend itself becomes the engineering challenge."*
+- 💼 LinkedIn
+- 🌐 Portfolio
+- 🧩 LeetCode
+- 📧 Email
