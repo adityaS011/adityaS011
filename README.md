@@ -76,14 +76,14 @@ Calendar application with overlap detection and intelligent event layout.
 
 ## 📊 Product Analytics Dashboard
 
-Production-style analytics dashboard with filtering and visualization.
+Full stack dashboard which can handel real time updates across multiple users and admin
 
 **Highlights**
 
 - Real time updates
 - Websockets
 - Cookie Persistence
-- Reusable Components
+- Reusable Components and production ready code with CI/CD and Testing pipelines
 
 **Tech**
 
